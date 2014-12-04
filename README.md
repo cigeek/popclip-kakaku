@@ -4,7 +4,7 @@
 価格.comで製品検索を行うPopClip Extensionです．
 
 ## インストール
-Kakaku.popclipextzをダウンロードして，ダブルクリックするだけです．
+Kakaku.popclipextzをダウンロードし，開けばインストール完了です．
 
 ## リンク
-+ [紹介記事](http://blog.kosk.me/2013/11/05/popclip-extension-kakaku-com/)
++ [PopClipの価格.com検索エクステンションを作ってみた](http://blog.kosk.me/2013/11/05/popclip-extension-kakaku-com/)
